@@ -32,6 +32,7 @@ namespace picacomic
                     {
                         Log("已经签到完成");
                     }
+                    
                     else
                     {
                         Log("开始签到");
